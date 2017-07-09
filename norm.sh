@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 echo "WELCOME TO HELL, NORMINETTE WILL HUMBLE YOU !!"
 for i in $(ls | grep -i ft_); do
