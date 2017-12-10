@@ -1,3 +1,7 @@
 Windows 3.5 .Net frame installation
 
+
+DISM  /Online  /Enable-Feature  /FeatureName:NetFx3  /All  /LimitAccess  /Source:x:\sources\sxs
+
+x is the alphabet path e.g d:\sources\installers
 -
